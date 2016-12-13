@@ -13,8 +13,8 @@ ci-dessous 2 sous-sections
 
 ## sous-section 1
  ici mon texte de ma section 1 
- et bla bla 
- et bla bla 
+ - et bla bla 
+ - et bla bla 
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
