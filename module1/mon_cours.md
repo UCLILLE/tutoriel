@@ -30,11 +30,11 @@ Un embed n'est pas supporté par le MarkDown ?
  
  Ci-dessous un tableau écrit en MarkDown
 
-| Noms         | compétences      | Salaire estimé  |
+| Noms          | compétences     | Salaire estimé  |
 | ------------- |:---------------:| ---------------:|
 | JM            | retraité        | $0              |
 | Adrian        | Expert débutant |    trop         |
-| Gilles        | are neat        |    pas assez    |
+| Gilles        | Expert en tout  |    pas assez    |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
