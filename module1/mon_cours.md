@@ -16,8 +16,7 @@ ci-dessous 2 sous-sections
  - et bla bla 
  - et bla bla 
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+ <a href="https://vimeo.com/169512310/85e409bc11" target="_blank"><img src="http://www.orient-oosten.org/wp-content/uploads/2015/06/Christian-Cannuyer-et-pape.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## sous-section 2
