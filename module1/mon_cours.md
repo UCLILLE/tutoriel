@@ -16,6 +16,9 @@ ci-dessous 2 sous-sections
  - et bla bla 
  - et bla bla 
  
+ <iframe src="https://player.vimeo.com/video/169512310?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/169512310">Structure pyramidale de l&#039;&eacute;glise</a> from <a href="https://vimeo.com/user52928369">SUN</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+ 
  <a href="https://vimeo.com/169512310/85e409bc11" target="_blank"><img src="http://www.orient-oosten.org/wp-content/uploads/2015/06/Christian-Cannuyer-et-pape.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
