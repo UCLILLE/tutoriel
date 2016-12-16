@@ -63,8 +63,3 @@ raw Markdown line up prettily. You can also use inline Markdown.
  ### sous-section II
   Ajouter une activité
   # Conclusion 
- 
- 
- 
- 
- 
