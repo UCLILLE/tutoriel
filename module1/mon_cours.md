@@ -7,31 +7,34 @@ Voici une sous-section de cours **Esc@pad**
 
 # Une nouvelle section
 
-# ma nouvelle section I
+# Chapitre I
 
 ci-dessous 2 sous-sections
 
-## sous-section 1
- ici mon texte de ma section 1 
- - et bla bla 
- - et bla bla 
- 
- <iframe src="https://player.vimeo.com/video/169512310?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/169512310">Structure pyramidale de l&#039;&eacute;glise</a> from <a href="https://vimeo.com/user52928369">SUN</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+## Le professeur Cannuyer 1
+ Pas de biographie mais une image. 
+ - Il serre la main du pape 
+ - Il a participé à des émissions de télévision 
  
  <a href="https://vimeo.com/169512310/85e409bc11" target="_blank"><img src="http://www.orient-oosten.org/wp-content/uploads/2015/06/Christian-Cannuyer-et-pape.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## sous-section 2
- ici  contenu de la **sous-section 2**
- 
- Colons can be used to align columns.
+Un embed n'est pas supporté par le MarkDown ?
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+<iframe src="https://player.vimeo.com/video/169512310?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/169512310">Structure pyramidale de l&#039;&eacute;glise</a> from <a href="https://vimeo.com/user52928369">SUN</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+ 
+
+## Le professeur Jean-Marie 
+ Beaucoup plus discret que le professeur Cannuyer puisqu'on ne trouve rien sur internet à son sujet.
+ 
+ Ci-dessous un tableau écrit en MarkDown
+
+| Noms         | compétences      | Salaire estimé  |
+| ------------- |:---------------:| ---------------:|
+| JM            | retraité        | $0              |
+| Adrian        | Expert débutant |    trop         |
+| Gilles        | are neat        |    pas assez    |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
