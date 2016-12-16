@@ -49,6 +49,21 @@ raw Markdown line up prettily. You can also use inline Markdown.
 </dl>
  .
  
+ # Chapitre II
+ ## section I
+  dans cette partie nous verrons comment se connecter à Moodle
+ ### sous-section I
+  avoir ses identifiants ou les récupérer
+ ### sous-section II
+  aller sur Moodle et se connecter 
+ ## section II
+  Dans cette aprtie nous verrons comment utiliser Moodle.
+ ### sous-section I
+  Déposer une ressources 
+ ### sous-section II
+  Ajouter une activité
+  # Conclusion
+ 
  
  
  
